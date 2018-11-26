@@ -10,33 +10,24 @@
 namespace EvaluacionDocenteULSA {
     
     
-    public partial class _Default {
+    public partial class Inicio {
         
         /// <summary>
-        /// Control Usuario.
+        /// Control cmbx_maestros.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText Usuario;
+        protected global::System.Web.UI.WebControls.DropDownList cmbx_maestros;
         
         /// <summary>
-        /// Control Password.
+        /// Control btnIniciar.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputPassword Password;
-        
-        /// <summary>
-        /// Control Button1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button btnIniciar;
     }
 }
